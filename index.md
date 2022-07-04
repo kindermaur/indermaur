@@ -1,6 +1,3 @@
-title: Home
-
----
 
 You may contact me through the form below.
 
